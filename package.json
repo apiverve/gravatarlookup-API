@@ -1,0 +1,32 @@
+{
+  "name": "@apiverve/gravatarlookup",
+  "version": "1.0.0",
+  "description": "Gravatar Lookup is a simple tool for looking up Gravatar profiles. It returns the Gravatar profile information of the email address provided.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/apiverve/gravatarlookup-API.git"
+  },
+  "keywords": [
+    "gravatar lookup"," gravatar lookup api"," gravatar lookup tool"," gravatar lookup software"," gravatar lookup service"," gravatar lookup library"," gravatar lookup sdk"," gravatar lookup code"," gravatar lookup script"," gravatar lookup program"," gravatar lookup application"," gravatar lookup app"," gravatar lookup utility"," gravatar lookup helper"," gravatar lookup helper tool"," gravatar lookup helper software"," gravatar lookup helper service"," gravatar lookup helper library"," gravatar lookup helper sdk"," gravatar lookup helper code"," gravatar lookup helper script"," gravatar lookup helper program"," gravatar lookup helper application"," gravatar lookup helper app"," gravatar lookup helper utility"," gravatar lookup helper"
+  ],
+  "author": "APIVerve <hello@apiverve.com> (http://apiverve.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/apiverve/gravatarlookup-API/issues"
+  },
+  "homepage": "https://github.com/apiverve/gravatarlookup-API",
+  "devDependencies": {
+    "mocha": "^2.3.4",
+    "chai": "^3.4.1",
+    "dotenv": "^2.0.0"
+  },
+  "dependencies": {
+    "node-fetch": "3.3.2",
+    "promise": "^7.1.1",
+    "request": "^2.69.0"
+  }
+}
