@@ -71,10 +71,7 @@ api.execute(query, function (error, data) {
   "status": "ok",
   "error": null,
   "data": {
-    "hash": "08ccd5c0bdd88b0ac13f776a4f7914db",
-    "requestHash": "08ccd5c0bdd88b0ac13f776a4f7914db",
-    "profileUrl": "https://gravatar.com/hello44d60115a9",
-    "preferredUsername": "hello44d60115a9",
+    "profileUrl": "https://gravatar.com/apiverve",
     "thumbnailUrl": "https://0.gravatar.com/avatar/08ccd5c0bdd88b0ac13f776a4f7914db",
     "photos": [
       {
@@ -82,8 +79,9 @@ api.execute(query, function (error, data) {
         "type": "thumbnail"
       }
     ],
-    "last_profile_edit": "2024-04-29 22:08:41",
     "displayName": "APIVerve",
+    "aboutMe": "APIVerve stands out as a premier source for cloud-based API and Software-as-a-Service (SaaS) solutions catering to developers, startups and products.\n\nAt APIVerve, we take pride in being a leading provider of cutting-edge cloud-based API and Software-as-a-Service (SaaS) solutions tailored to meet the diverse needs and unlock new possibilities across various industries.",
+    "currentLocation": "United States",
     "company": "APIVerve",
     "contactInfo": [
       {
@@ -91,18 +89,30 @@ api.execute(query, function (error, data) {
         "value": "apiverve.com/contact"
       }
     ],
-    "urls": [
+    "accounts": [
       {
-        "title": "Website",
-        "value": "https://apiverve.com"
+        "domain": "twitter.com",
+        "display": "@apivervehq",
+        "url": "https://twitter.com/apivervehq",
+        "iconUrl": "https://gravatar.com/icons/twitter-alt.svg",
+        "username": "apivervehq",
+        "verified": "true",
+        "name": "Twitter",
+        "shortname": "twitter"
+      },
+      {
+        "domain": "calendly.com",
+        "display": "apiverve",
+        "url": "https://calendly.com/apiverve",
+        "iconUrl": "https://gravatar.com/icons/calendly.svg",
+        "username": "calendly.com",
+        "verified": "true",
+        "name": "Calendly",
+        "shortname": "calendly"
       }
     ],
-    "profileBackground": {
-      "opacity": 1
-    },
-    "share_flags": {
-      "search_engines": true
-    }
+    "link_images": "show",
+    "username": "apiverve"
   }
 }
 ```
