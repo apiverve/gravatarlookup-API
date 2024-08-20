@@ -111,9 +111,9 @@ api.execute(query, function (error, data) {
         "shortname": "calendly"
       }
     ],
-    "link_images": "show",
     "username": "apiverve"
-  }
+  },
+  "code": 200
 }
 ```
 
