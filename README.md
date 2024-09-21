@@ -101,6 +101,16 @@ api.execute(query, function (error, data) {
         "shortname": "twitter"
       },
       {
+        "domain": "github.com",
+        "display": "apivervehq",
+        "url": "https://github.com/apivervehq",
+        "iconUrl": "https://gravatar.com/icons/github.svg",
+        "username": "apivervehq",
+        "verified": "true",
+        "name": "GitHub",
+        "shortname": "github"
+      },
+      {
         "domain": "calendly.com",
         "display": "apiverve",
         "url": "https://calendly.com/apiverve",
